@@ -1,3 +1,12 @@
+"""
+Sample Input:-
+7
+1 1 0 0 0 1 0
+
+Sample Output:-
+4
+"""
+
 def count_zeros(number):
     return str(number).count('0')
 def listToString(s):
