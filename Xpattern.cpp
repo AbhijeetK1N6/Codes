@@ -1,4 +1,4 @@
-/*
+
 Note: This section is language agnostic. You can choose to code in ANY anguage. There is no necessary advantage to choosing to code in multiple Languages.
 
 Hari is a civil engineer who is designing a fountain in square shape with water sprinklers in the edges with n number of steps. He needs to draw a sketch of the fountain in top view with the step number at the edges of the square.
@@ -23,9 +23,10 @@ Output 1 :
   3   3
  2     2
 1       1 
-*/
 
 
+CODE:-
+ 
 #include<bits/stdc++.h>
 using namespace std;
 int main()
